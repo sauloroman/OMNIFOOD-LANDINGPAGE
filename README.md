@@ -1,6 +1,6 @@
 # Omnifood &mdash; LandingPage 🍝
 
-<img src="./img/design/coverpage.png" alt="Coverpage Omnifood" width=500/>
+<img src="./img/design/coverpage.png" alt="Coverpage Omnifood" width=700/>
 <br />
 <br />
 
