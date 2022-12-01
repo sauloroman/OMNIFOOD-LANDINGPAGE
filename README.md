@@ -49,7 +49,3 @@ It's important to mention that this project was developed based on "desktop firs
 
 <br />
 <br />
-
-<img src="./img/design/html5.png" alt="Html5 logo" width="40" style="display: inline;"/>
-<img src="./img/design/css-3.png" alt="css3 logo" width="40" style="display: inline;" />
-<img src="./img/design/js.png" alt="javascript logo" width="40" style="display: inline;" />
